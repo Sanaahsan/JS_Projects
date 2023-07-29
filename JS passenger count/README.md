@@ -1,4 +1,4 @@
-# JS_Projects
+# JS_Passenger_Count_App
 
 The Passenger Count App is a web-application designed to help users keep track of the number of passengers boarding and alighting at each stop or location.
 The passenger count is updated in real-time, providing instant feedback to users.
