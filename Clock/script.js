@@ -1,3 +1,0 @@
-var person="John"
-person;
-  
